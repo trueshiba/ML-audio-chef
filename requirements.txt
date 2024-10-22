@@ -5,3 +5,4 @@ ipython
 torch 
 torchvision 
 torchaudio
+pandas
