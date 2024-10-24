@@ -2,7 +2,5 @@ numpy
 matplotlib
 scikit-learn
 ipython
-torch 
-torchvision 
-torchaudio
+soundfile
 pandas
