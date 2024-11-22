@@ -1,8 +1,7 @@
-numpy
-matplotlib
+numpy==2.1.2
+matplotlib==3.9.2
 scikit-learn
 ipython
-torch 
-torchvision 
-torchaudio
-pandas
+soundfile
+pandas==2.2.3
+seaborn
